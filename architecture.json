@@ -1,0 +1,77 @@
+{
+  "book_id": "modernist-european-surrealist-spiritual-seeking",
+  "title": "The Memory of Ash",
+  "tagline": "A translator of machinery manuals travels to a silent Paris to seek the Quietist, only to find the city's rain is ash and its pigeons eat polished bones.",
+  "target_words": 61616,
+  "actual_words": 61616,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Search for Silence",
+    "The Materiality of Memory",
+    "The Breakdown of Meaning",
+    "Surrealist Spirituality"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ash of Burnt Time",
+      "words": 5134
+    },
+    {
+      "ch": 2,
+      "title": "The Machinery of Avoidance",
+      "words": 5134
+    },
+    {
+      "ch": 3,
+      "title": "A Crime Not Yet Committed",
+      "words": 5134
+    },
+    {
+      "ch": 4,
+      "title": "The Geometry of Hunger",
+      "words": 5134
+    },
+    {
+      "ch": 5,
+      "title": "Amber and Absence",
+      "words": 5134
+    },
+    {
+      "ch": 6,
+      "title": "The Curated Hollow",
+      "words": 5134
+    },
+    {
+      "ch": 7,
+      "title": "A Geological Sigh",
+      "words": 5134
+    },
+    {
+      "ch": 8,
+      "title": "The Memory of Ash",
+      "words": 5134
+    },
+    {
+      "ch": 9,
+      "title": "The Pen and the Medium",
+      "words": 5134
+    },
+    {
+      "ch": 10,
+      "title": "The Open-Air Dossier",
+      "words": 5134
+    },
+    {
+      "ch": 11,
+      "title": "The Languid Ouroboros",
+      "words": 5134
+    },
+    {
+      "ch": 12,
+      "title": "The Silent Path",
+      "words": 5134
+    }
+  ]
+}
